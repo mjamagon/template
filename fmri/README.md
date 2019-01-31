@@ -13,4 +13,4 @@ NEU502b covers the fundamentals of fMRI experiment design and analysis at a quic
 - [[Paper](https://arxiv.org/abs/1806.06145)] Teaching computational reproducibility for neuroimaging.
 
 
-\*\* Sam has copies of this textbook in his office.
+\*\* Sam and Mark have copies of this textbook in his office.

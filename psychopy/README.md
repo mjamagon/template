@@ -3,7 +3,7 @@
 Folder containing *psychopy* scripts and materials.
 
 ## Resources
-- PsychoPy documentation [[site](http://www.psychopy.org/documentation.html)]
+- PsychoPy documentation [[site](http://www.psychopy.org/documentation.html)] [[manual](https://www.psychopy.org/PsychoPyManual.pdf)]
 - PsychoPy GUI builder [[site](http://www.psychopy.org/builder/builder.html)]
 - Programming for Psychology in Python [[site](http://www.djmannion.net/psych_programming/vision/intro/intro.html)]
 - Building Experiments in PsychoPy [[textbook](https://www.amazon.com/Building-Experiments-PsychoPy-Jonathan-Peirce/dp/1473991390)]\*\*
